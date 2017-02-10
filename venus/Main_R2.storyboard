@@ -34,7 +34,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mYw-EI-wq6">
                                 <rect key="frame" x="0.0" y="0.0" width="268" height="568"/>
                                 <subviews>
-                                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="menu_logo" translatesAutoresizingMaskIntoConstraints="NO" id="Km8-DZ-KA8">
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="menu_logo" translatesAutoresizingMaskIntoConstraints="NO" id="Km8-DZ-KA8">
                                         <rect key="frame" x="0.0" y="26" width="268" height="80"/>
                                         <constraints>
                                             <constraint firstAttribute="width" secondItem="Km8-DZ-KA8" secondAttribute="height" multiplier="67:20" id="N8T-e4-30Y"/>
@@ -203,7 +203,7 @@
     </scenes>
     <resources>
         <image name="home" width="39" height="39"/>
-        <image name="menu_logo" width="281" height="143"/>
+        <image name="menu_logo" width="305" height="229"/>
         <image name="plus" width="40" height="40"/>
     </resources>
 </document>
